@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cryananac" >boring pineapples</string>
+    <string name="coolananac">cool pineapples</string>
+    <string name="vote">vote</string>
+    <string name="textq">Choose the best pineapple!!!</string>
+</resources>

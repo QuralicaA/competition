@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="cryananac" >Скучные ананасы</string>
+    <string name="coolananac">Крутые ананасы</string>
+    <string name="vote">Проголосовать</string>
+    <string name="textq">Выбери самый лучший ананас!!!</string>
+</resources>
